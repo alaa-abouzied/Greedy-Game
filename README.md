@@ -9,7 +9,7 @@
 4.1 nickel = 5 cent
 
 
-### Technologies we used :
+### Technologies used :
 - HTML .
 - Javascript .
 
